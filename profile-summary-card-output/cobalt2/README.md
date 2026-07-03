@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/ArcKos00/ArcKos00/master/profile-summary-card-output/cobalt2/4-productive-time.svg)
-```
-
-    
